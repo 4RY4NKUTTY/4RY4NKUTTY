@@ -8,7 +8,7 @@
 ---
 
 ## 🔭 Projects
-- **AR Deployment and 3D Reconstruction of Devrani-Jethani Temple**:  
+- **[AR Deployment and 3D Reconstruction of Devrani-Jethani Temple](https://github.com/4RY4NKUTTY/PROJECT---Devrani-Jethani_Temple)**:  
   - Designed an accurate 3D model of the historic temple using **Blender**.  
   - Created an interactive **Augmented Reality (AR)** experience accessible on iOS devices using **AR-Media**.  
 
