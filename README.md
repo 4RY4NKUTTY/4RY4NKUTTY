@@ -12,7 +12,7 @@
   - Designed an accurate 3D model of the historic temple using **Blender**.  
   - Created an interactive **Augmented Reality (AR)** experience accessible on iOS devices using **AR-Media**.  
 
-- **Brain Tumor Identification**:  
+- **[Brain Tumor Identification](https://github.com/4RY4NKUTTY/Brain-Tumor-Detecion-Model)**:  
   - Built a high-accuracy **Machine Learning** model using **TensorFlow** and **Keras** with **CNN architecture**.  
   - Achieved 97% accuracy in identifying brain tumors from MRI datasets, showcasing its potential for medical imaging.  
 
