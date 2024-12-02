@@ -20,7 +20,7 @@
   - A low-cost, efficient **Electronic Health Record (EHR)** system built using **HTML, CSS, JavaScript, Google Forms, and Google Sheets**.  
   - Reduced data retrieval times by 40% and enhanced user satisfaction by 25%, enabling scalability for healthcare providers.  
 
-- **Image Classification Model**:  
+- **[Image Classification Model](https://github.com/4RY4NKUTTY/PROJECT---Image_Classification)**:  
   - A Python-based ML project for **dog vs. cat image classification** using **TensorFlow** and **Keras**.  
   - Trained on 5,000 images with high accuracy achieved through batch processing.
 
