@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋 I'm Aryan Kutty!
 
-<!--
-**4RY4NKUTTY/4RY4NKUTTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 I'm a **B.Tech CSE (AI)** undergraduate at **CSVTU - UTD, Bhilai** (Batch of 2026).  
+💻 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**.  
+🌟 I thrive on solving real-world problems using cutting-edge technologies and creative approaches.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+- **AR Deployment and 3D Reconstruction of Devrani-Jethani Temple**:  
+  - Designed an accurate 3D model of the historic temple using **Blender**.  
+  - Created an interactive **Augmented Reality (AR)** experience accessible on iOS devices using **AR-Media**.  
+
+- **Brain Tumor Identification**:  
+  - Built a high-accuracy **Machine Learning** model using **TensorFlow** and **Keras** with **CNN architecture**.  
+  - Achieved 97% accuracy in identifying brain tumors from MRI datasets, showcasing its potential for medical imaging.  
+
+- **[Medimemoir](#)**:  
+  - A low-cost, efficient **Electronic Health Record (EHR)** system built using **HTML, CSS, JavaScript, Google Forms, and Google Sheets**.  
+  - Reduced data retrieval times by 40% and enhanced user satisfaction by 25%, enabling scalability for healthcare providers.  
+
+- **Image Classification Model**:  
+  - A Python-based ML project for **dog vs. cat image classification** using **TensorFlow** and **Keras**.  
+  - Trained on 5,000 images with high accuracy achieved through batch processing.
+
+---
+
+## 🌱 What I'm Currently Learning
+- Advanced **Machine Learning** techniques and **Neural Networks**.  
+- Exploring the world of **Data Science with R and Python**.  
+- Enhancing my skills in **3D modeling and AR applications** for practical use cases.  
+
+---
+
+## 🛠️ Technical Skills
+**Languages**: Python, C, C++, R, SQL, HTML, CSS, JavaScript  
+**Frameworks & Tools**: TensorFlow, Keras, MATLAB, Blender, LaTeX  
+**Concepts**: Data Structures, Object-Oriented Programming, Database Management, Encryption/Decryption, Neural Networks, AI, ML  
+
+---
+
+## 🎖️ Certifications & Achievements
+- **MathWorks**: Certificates in MATLAB Onramp, Image Processing, Machine Learning, and Calculations with Vectors.  
+- **HackerRank**: 5-star in C, 3-star in Python, C++, SQL, and Problem Solving.  
+- **Sololearn**: Certified in C, C++, Python, SQL.  
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn**: [Aryan Kutty](https://www.linkedin.com/in/aryan-kutty-8899062b0/)  
+- **GitHub**: [@4RY4NKUTTY](https://github.com/4RY4NKUTTY)  
+- **HackerRank**: [@4ry4nl34rn5](https://www.hackerrank.com/4ry4nl34rn5)  
+
+---
+
+⚡ **Fun Fact**: I can type at an advanced speed of **59 WPM** with 100% accuracy! 
