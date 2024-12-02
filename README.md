@@ -14,7 +14,7 @@
 
 - **[Brain Tumor Identification](https://github.com/4RY4NKUTTY/Brain-Tumor-Detecion-Model)**:  
   - Built a high-accuracy **Machine Learning** model using **TensorFlow** and **Keras** with **CNN architecture**.  
-  - Achieved 97% accuracy in identifying brain tumors from MRI datasets, showcasing its potential for medical imaging.  
+  - Achieved 93.22% accuracy in identifying brain tumors from MRI datasets, showcasing its potential for medical imaging.  
 
 - **[Medimemoir](https://github.com/4RY4NKUTTY/Aryan-Kutty---medi-memoir)**:  
   - A low-cost, efficient **Electronic Health Record (EHR)** system built using **HTML, CSS, JavaScript, Google Forms, and Google Sheets**.  
