@@ -16,7 +16,7 @@
   - Built a high-accuracy **Machine Learning** model using **TensorFlow** and **Keras** with **CNN architecture**.  
   - Achieved 97% accuracy in identifying brain tumors from MRI datasets, showcasing its potential for medical imaging.  
 
-- **[Medimemoir](#)**:  
+- **[Medimemoir](https://github.com/4RY4NKUTTY/Aryan-Kutty---medi-memoir)**:  
   - A low-cost, efficient **Electronic Health Record (EHR)** system built using **HTML, CSS, JavaScript, Google Forms, and Google Sheets**.  
   - Reduced data retrieval times by 40% and enhanced user satisfaction by 25%, enabling scalability for healthcare providers.  
 
