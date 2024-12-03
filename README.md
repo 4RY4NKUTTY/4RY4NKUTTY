@@ -24,6 +24,10 @@
   - A Python-based ML project for **dog vs. cat image classification** using **TensorFlow** and **Keras**.  
   - Trained on 5,000 images with high accuracy achieved through batch processing.
 
+- **[FPS Aim Trainer](https://github.com/4RY4NKUTTY/PROJECT---Image_Classification)**:  
+  - Developed a Python-based FPS aim trainer using Pygame, featuring both static and dynamic target modes to enhance user precision and reflexes.
+  - Incorporated customizable target sizes, movement speeds, and scoring mechanisms, providing an engaging and interactive training experience for FPS gamers.
+
 ---
 
 ## 🌱 What I'm Currently Learning
