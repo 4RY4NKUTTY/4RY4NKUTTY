@@ -32,7 +32,7 @@
 
 ## 🌱 What I'm Currently Learning
 - Advanced **Machine Learning** techniques and **Neural Networks**.  
-- Exploring the world of **Data Science with R and Python**.  
+- Exploring the world of **Data Science and Artificial Intelligence**.  
 - Enhancing my **Computer Science and Engineering Concepts** for practical use cases.  
 
 ---
